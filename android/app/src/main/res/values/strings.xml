@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Frames</string>
+    <string name="title">frames</string>
+    <string name="action_settings">Settings</string>
+    <string name="password">Password</string>
+    <string name="email">E-mail</string>
+    <string name="username">Username</string>
+    <string name="login">Sign In</string>
+    <string name="or">or</string>
+    <string name="signup">Sign Up</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="invalid_login">Invalid email or password..</string>
+    <string name="email_exists">Your e-mail is already taken. Please enter another e-mail.</string>
+    <string name="username_exists">Your username is already taken. Please enter another username.</string>
+    <string name="invalid_post">Something went wrong.Please try again..</string>
+    <string name="title_activity_signup">Sign Up</string>
+    <string name="registered">You have been registered succesfuly.</string>
+
+</resources>

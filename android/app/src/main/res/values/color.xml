@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="face">#3B5998</color>
+    <color name="face1">#354F88</color>
+    <color name="google">#DC4D28</color>
+    <color name="google1">#C54523</color>
+    <color name="bg_login">#f5f6fc</color>
+    <color name="action_bar">#36394F</color>
+    <color name="login_button_enabled">#303250</color>
+    <color name="login_button_shadow">#B7B7B7</color>
+    <color name="login_button_pressed">#24273A</color>
+    <color name="login_button_disabled">#9fa8da</color>
+    <color name="login_text">#7986cb</color>
+    <color name="edit_text_clicked">#E8EAF6</color>
+    <color name="title">#4A457C</color>
+    <color name="black">#000</color>
+</resources>

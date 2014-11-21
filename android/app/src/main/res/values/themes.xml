@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- the theme applied to the application or activity -->
+    <style name="RegisterCustomBar"
+        parent="@style/Theme.AppCompat.Light">
+        <item name="actionBarStyle">@style/RegisterActionBar</item>
+    </style>
+
+    <!-- ActionBar styles -->
+    <style name="RegisterActionBar"
+        parent="@style/Widget.AppCompat.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">@drawable/bg_action_bar</item>
+
+        <!-- Support library compatibility -->
+        <item name="background">@drawable/bg_action_bar</item>
+    </style>
+</resources>
