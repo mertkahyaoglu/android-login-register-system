@@ -16,7 +16,7 @@ router.use(function(req, res, next) {
 
 //ANDROID General routes
 router.get('/andro', function(req, res) {
-    res.json({ message: 'Welcome to Frames!' });   
+    res.json({ message: 'Login/RegisterSystem!' });   
 });
 
 // LOGIN Route
