@@ -1,4 +1,4 @@
 Android-Login-Register-System
 =============================
 
-Built with node.js(express.js) and mysql on the server-side and Android Volley HTTP library on the client side for transmitting network data. JSON format is used to request/response.
+Login and Register system for Android built with node.js(express.js) and mysql on the server-side and Android Volley HTTP library on the client side for transmitting network data.
