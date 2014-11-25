@@ -6,7 +6,7 @@ module.exports = function () {
             host:       "localhost",
             user:       "root",
             password:   "",
-            database:   "frames"
+            database:   "dbname"
         });
     };
     return db;
